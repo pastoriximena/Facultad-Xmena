@@ -11,7 +11,7 @@ Column Size: [70%, 29%]
 
 --- column-break ---
 
-
+![[Captura de pantalla 2026-03-03 223815.png]]
 
 Arda Guler
 --- end-multi-column 
