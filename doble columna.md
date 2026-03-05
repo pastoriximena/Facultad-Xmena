@@ -13,6 +13,6 @@ Column Size: [70%, 29%]
 
 ![[Captura de pantalla 2026-03-03 223815.png]]
 
-Arda Guler
+Arda Gulerssss
 --- end-multi-column 
 
