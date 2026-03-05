@@ -7,7 +7,7 @@ Number of Columns: 2
 Column Size: [70%, 29%]
 ```
 
-# ARDA GULER
+# ARDA GULER guler arda
 
 --- column-break ---
 
