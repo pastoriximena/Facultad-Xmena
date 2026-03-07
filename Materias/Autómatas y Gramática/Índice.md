@@ -61,4 +61,4 @@ SORT fecha_entrega ASC
 
 ## 📚 Bibliografía
 
-![[Facultad-Xmena/Materias/Autómatas y Gramática/Bibliografía]]
+![[Bibliografía]]
