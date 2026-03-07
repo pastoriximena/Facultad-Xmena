@@ -1,18 +1,14 @@
 ---
-banner: "![[a909c82c94b8330ece6768267f93c6cd.jpg]]"
----
----
 tipo: clase
-materia: "[[Facultad/Materias/Programación Avanzada/Índice|Programación Avanzada]]"
+materia: "[[Facultad-Xmena/Materias/Autómatas y Gramática/Índice|Autómatas Y Gramática]]"
 numero: "1"
 fecha: 16-04-2026
-tema: Punteros
+tema: Expresiones Regulares
 presente: true
 tags:
   - clase
-  - programacion-avanzada
 banner: "![[a909c82c94b8330ece6768267f93c6cd.jpg]]"
-banner_y: 0.007
+banner_y: 0.0045
 custom-width: 59
 banner_x: 0.5
 ---

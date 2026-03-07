@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"60e96580ea97f1f3","type":"file","file":"Facultad/Materias/Programación Avanzada/Índice.md","x":-288,"y":-137,"width":400,"height":297,"color":"#568f75"},
-		{"id":"cf92a39d1faa5831","type":"file","file":"Facultad/Materias/Programación Avanzada/Clases/Clase 1.md","x":-288,"y":200,"width":400,"height":400,"color":"#4b7765"}
+		{"id":"f17e709aad852dcc","x":-777,"y":-605,"width":400,"height":400,"type":"file","file":"facultad/Materias/Autómatas y Gramática/Bibliografía.md"},
+		{"id":"7d7c083fb0974ec5","x":-332,"y":-605,"width":400,"height":400,"type":"file","file":"facultad/Materias/Autómatas y Gramática/Clases/Clase 1.md"},
+		{"id":"116a85ccf49af9c7","x":113,"y":-605,"width":400,"height":400,"type":"file","file":"facultad/Materias/Autómatas y Gramática/Temas/Expresiones Regulares.md"}
 	],
 	"edges":[]
 }
