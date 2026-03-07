@@ -8,8 +8,9 @@ WHERE tutorial = "formato"
 ---
 
 ## Índice
-- [[#Agregar Links a otras notas:|Agregar Links a otras notas:]]
-- [[#Fondos para canvas:|Fondos para canvas:]]
+- [[#Agregar Links a otras notas|Agregar Links a otras notas]]
+- [[#Fondos para canvas|Fondos para canvas]]
+
 
 ### Agregar Links a otras notas
 

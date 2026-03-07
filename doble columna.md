@@ -7,12 +7,12 @@ Number of Columns: 2
 Column Size: [70%, 29%]
 ```
 
-# ARDA GULER guler arda
+# ARDA GULER
 
 --- column-break ---
 
-![[Captura de pantalla 2026-03-03 223815.png]]
 
-Arda Gulerssss
+
+Arda Guler
 --- end-multi-column 
 
