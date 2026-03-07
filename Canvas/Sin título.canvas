@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"0ad77a0cf57fcf60","x":-56,"y":-101,"width":250,"height":60,"type":"text","text":"POR FAVOR IDOS\n"}
+		{"id":"0ad77a0cf57fcf60","x":-56,"y":-101,"width":250,"height":60,"type":"text","text":"POR FAVOR IDOS\n"},
+		{"id":"7005934f6ddfcae5","x":-540,"y":-420,"width":400,"height":400,"type":"file","file":"Facultad-Emi/Materias/Autómatas y Gramática/Clases/Clase 1.md"}
 	],
 	"edges":[]
 }
