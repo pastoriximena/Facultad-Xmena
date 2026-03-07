@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"c529da7b5af0e592","x":-505,"y":-409,"width":400,"height":400,"type":"file","file":"Facultad-Xmena/Facultad-Emi/Materias/Autómatas y Gramática/Bibliografía.md"},
-		{"id":"0ad77a0cf57fcf60","x":-56,"y":-101,"width":250,"height":60,"type":"text","text":"POR FAVOR IDOS\n"}
+		{"id":"c529da7b5af0e592","type":"file","file":"Facultad-Xmena/Facultad-Emi/Materias/Autómatas y Gramática/Bibliografía.md","x":-505,"y":-409,"width":400,"height":400},
+		{"id":"0ad77a0cf57fcf60","type":"text","text":"POR FAVOR IDOS\n","x":-56,"y":-101,"width":250,"height":60},
+		{"id":"8132013ec9fbc036","x":-56,"y":-600,"width":400,"height":400,"type":"file","file":"facultad/Materias/Autómatas y Gramática/Bibliografía.md"}
 	],
 	"edges":[]
 }

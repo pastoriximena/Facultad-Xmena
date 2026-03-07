@@ -1,6 +1,6 @@
 ---
 tipo: bibliografia
-materia: "[[Autómatas y Gramática/_Indice|Autómatas y Gramática]]"
+materia: "[[facultad-emi/Materias/Autómatas y Gramática/Índice|Autómatas y Gramatica]]"
 tags:
   - bibliografia
 ---
